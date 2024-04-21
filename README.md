@@ -1,3 +1,3 @@
-# viz-class-03
+# Class 03: NumPy
 
-A first look at `numpy`
+This class will provide a first look at `numpy`.
